@@ -1503,6 +1503,14 @@ const emojiItems = [
     year: 2004,
     itemLink: "https://www.imdb.com/title/tt0377092/"
   },
+   {
+    title: "Men in Black 2",
+    emojiImgs: "👨⤵◾👽🐍",
+    genres:["action","sci-fi","comedy"],
+    type:"movie",
+    year:2002,
+    itemLink: "https://www.imdb.com/title/tt0120912/"
+  },
   {
     title: "Midsommar",
     emojiImgs: "🌞👩‍👧‍👧🌼🔥💀",
