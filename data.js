@@ -1472,6 +1472,13 @@ const emojiItems = [
     year: 1997
   },
   {
+    title: "Men in Black 2",
+    emojiImgs: "👨⤵◾👽🐍",
+    genres:["action","sci-fi","comedy"],
+    type:"movie",
+    year:2002
+  },
+  {
     title: "Men in Black 3",
     emojiImgs: "👨⤵◾👽",
     genres: ["action", "comedy", "sci-fi"],
